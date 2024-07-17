@@ -1,0 +1,1 @@
+This folder contains all CSS or SCSS files
